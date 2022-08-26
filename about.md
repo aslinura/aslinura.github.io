@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi this is Aslinur from Austin!
 
 ### More Information
 
